@@ -1,0 +1,10 @@
+/*
+added by : vighnesh on july 5, 2022
+part of version 3
+*/
+.sampleClass{
+    background-color: red;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: none;
+}
