@@ -8,3 +8,13 @@ part of version 3
     font-family: 'Courier New', Courier, monospace;
     white-space: none;
 }
+
+
+/*
+this code snippet was added after cloning from git
+version 4
+*/
+.cloneClass{
+    border: 2px solid rgb(247, 257, 267);
+    border-radius: 30%;
+}
